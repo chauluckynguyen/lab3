@@ -1,3 +1,11 @@
+.jumbotron p.active{
+     color: #1f6ddd;
+}
+
+.project-description.active{
+     color: red;
+}
+
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
